@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi 👋 I am Harman!!!
+
+Welcome to my github! I am an aspiring Software developer and UX designer. 
+
+🌱 I’m currently studying as a computer science student at the University of British Columbia, I am set to graduate in may 2023. I have a burning passion for design with my background being coding! So that explains why I am interested in both UX and software development. I am currently working as a Barista at a local coffee shop, and I am also the vice president of the computer science course union at our university.
+
+ 👯 I’m looking for internships to learn more about the real world jobs!
+
+
+Feel free to look around! 
+
 
 <!--
 **Harman-Sahota/Harman-Sahota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
