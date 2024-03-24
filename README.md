@@ -4,9 +4,9 @@
 
 🎓 Education: BSc. Computer Science, UBC, 2018-2023.
 
-💼 Experience: Full Stack Developer at Jap Apparels, Web Developer at UBCO CSCU.
+💼 Experience: Software Developer @ Nachdi Jawani and IFKT.
 
-💻 Skills: Python, React.js,PHP, Django, REST framework, Java, C ,Node.js, MySQL, HTML/CSS, JavaScript, and more.
+💻 Skills: Python, React.js,PHP, Django, REST framework, Java, C ,Node.js, MySQL, HTML/CSS, JavaScript, MongoDB, AWS, Firebase and more.
 
 🚀 Looking for Opportunities: Motivated, adaptable, and ready to contribute to innovative projects.
 
