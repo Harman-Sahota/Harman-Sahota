@@ -1,8 +1,8 @@
 👋 Hi, I'm Harman Sahota, a recent Computer Science graduate from UBC with a passion for full-stack web development.
 
-🌐 Based in the GTA, actively seeking full-stack web dev opportunities.
+🌐 Based in the GTA, actively seeking software developer opportunities.
 
-🎓 Education: BSc. Computer Science, UBC, 2018-2023.
+🎓 Education: BSc. Computer Science, UBC.
 
 💼 Experience: Software Developer @ Nachdi Jawani and IFKT.
 
